@@ -1,7 +1,7 @@
 #
 # CIS-125
 #
-#Converting Files to Pig Latin
+# Converting Files to Pig Latin
 #
 # author_'Devin Simoneaux'
 
